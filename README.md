@@ -1,4 +1,4 @@
-![Open Source Society logo](https://camo.githubusercontent.com/59e7dd8486d5cb6facd776f0f96395be6f41cc5a/687474703a2f2f692e696d6775722e636f6d2f476a456267494a2e706e67)
+![Open Source Society logo](http://i.imgur.com/kYYCXtC.png)
 
 <h3 align="center">Open Source Society University</h3>
 <p align="center">
@@ -7,6 +7,9 @@
 <p align="center">
   <a href="https://github.com/open-source-society/bioinformatics">
 	<img alt="Open Source Society University - Bioinformatics" src="https://img.shields.io/badge/OSSU-bioinformatics-blue.svg">
+  </a>
+  <a href="https://www.patreon.com/ossu">
+	<img alt="Contribute with OSSU on Patreon" src="https://img.shields.io/badge/Patreon-contribute-yellow.svg">
   </a>
 </p>
 
@@ -18,6 +21,7 @@
 - [How to use this guide](#how-to-use-this-guide)
 - [Prerequisite](#prerequisite)
 - [How to collaborate](#how-to-collaborate)
+- [Code of Conduct](#code-of-conduct)
 - [Community](#community)
 - [Next Goals](#next-goals)
 - [Team](#team)
@@ -97,7 +101,8 @@ COMP 4311 | [Data Science ](http://cs109.github.io/2015/) | 13 Week | 10 Hours/W
 MATH 4311 | [Inferential Statistics](https://www.edx.org/course/introduction-statistics-inference-uc-berkeleyx-stat2-3x) | 5 Weeks | 8 Hours/Week
 BIO 4312a | [Molecular Biology 1 ](https://www.edx.org/course/molecular-biology-part-1-dna-replication-mitx-7-28-1x1-0) | 8 Weeks | 4-8 Hours/Week
 BIO 4312b | [Molecular Biology 2 ](https://www.edx.org/course/molecular-biology-part-2-transcription-mitx-7-28-2x-0) | 6 Weeks | 4-8 Hours/Week
-BIO 4312c | [Bioinformatics 1](https://www.coursera.org/learn/dna-analysis) | 4 Weeks | 4-10 Hours/Week
+BIO 4312c | [Molecular Biology 3](https://www.edx.org/course/molecular-biology-part-3-rna-processing-mitx-7-28-3x-0) | 8 Weeks | 4-8 Hours/Week 
+BIO 4312d | [Bioinformatics 1](https://www.coursera.org/learn/dna-analysis) | 4 Weeks | 4-10 Hours/Week
 COMP 4312a | [Bioinformatics 2](https://www.coursera.org/learn/genome-sequencing) | 4 Week | 6 Hours/Week
 COMP 4312b | [Bioinformatics 3](https://www.coursera.org/learn/comparing-genomes) | 4 Week | 6 Hours/Week
 COMP 4312c | [Bioinformatics 4](https://www.coursera.org/learn/molecular-evolution) | 4 Week | 6 Hours/Week
@@ -261,20 +266,24 @@ The **extras** section is a place where all of us will be able to submit interes
 
 **Let's do it together! =)**
 
+## Code of conduct
+
+[OSSU's code of conduct](https://github.com/ossu/code-of-conduct).
+
 ## Community
 
-Subscribe to [/r/opensourcesociety](https://www.reddit.com/r/opensourcesociety/)!
+Subscribe to our [newsletter](https://tinyletter.com/ossu)
 
-Join us in our [group](https://groups.google.com/forum/#!forum/open-source-society-university)!
+Use our [forum](https://github.com/ossu/forum) if you need some help.
 
 You can also interact through [GitHub issues](https://github.com/open-source-society/bioinformatics/issues).
 
 We also have a chat room!
 [![Gitter](https://badges.gitter.im/open-source-society/bioinformatics.svg)](https://gitter.im/open-source-society/bioinformatics)
 
-Add **Open Source Society University** to your [Facebook](https://www.facebook.com/ossuniversity) profile!
+Add **Open Source Society University** to your [Linkedin](https://www.linkedin.com/school/11272443/) and [Facebook](https://www.facebook.com/ossuniversity) profile!
 
-> **ps**: A forum is an ideal way to interact with other students as we do not lose important discussions, which usually occur in communication via chat apps. **Please use our subreddit/group for important discussions**.
+> **ps**: A forum is an ideal way to interact with other students as we do not lose important discussions, which usually occur in communication via chat apps. **Please use our forum for important discussions**.
 
 ## Next Goals
 
